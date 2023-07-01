@@ -1,7 +1,7 @@
 public class Example {
     public static void main(String[] args) {
 
-        boolean myBoolean = true;
+        boolean myBool = true;
         char myChar = '#';
         String myString = "Bobby";
         int myInt = 50;
